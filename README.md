@@ -3,7 +3,7 @@
 This project implements a music-themed application that allows users to manage songs and playlists. The primary focus is on demonstrating unit testing practices using JUnit and Mockito frameworks.
 You can find postman collection available in `resources/static`
 
-To enable unit testing with JUnit and Mockito, add the following dependency to your `pom.xml`:
+To enable unit testing with JUnit and Mockito, add the following dependency to your `pom.xml`, the latest version is available at https://mvnrepository.com/artifact/junit/junit) :
 ```
 <dependency>
     <groupId>junit</groupId>
